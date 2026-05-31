@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <ul>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <li><p><a class="link-text" href="https://pafsfsfsfsaf1313.tilda.ws/vdsgsdfsdf"><b>Сайт</b></a> сайт про 8 марта был собран в Tilda</p></li>
+       <li><p><a class="link-text" href="https://pafsfsfsfsaf1313.tilda.ws/rt45647474"><b>Сайт</b></a> починить компьютер</p></li>
+       <li><p><a class="link-text" href="https://project16894856.tilda.ws/"><b>Сайт</b></a>  nintendo swish отличная консоль </p></li>
+     <li><p><a class="link-text" href="https://www.figma.com/design/HQg0VQkHDJjKSaWaT6JkKD/Untitled?node-id=0-1&p=f&t=KmwcNiAVQjPe2uEd-0"><b>Макет</b></a> Мой сайт, сделанный в Figma</p>
+        <p><a class="link-text" href="https://zera13134567999popov451238-source.github.io/home1/"><b>Сайт</b></a> вёрстка по макету, отступы</p></li>
+        <p>Бонус: <a class="link-text" href="https://zera13134567999popov451238-source.github.io/topin/"><b>Сайт</b></a> фейерверки и пиротехника</p>
+      </ul>
+    </main>
+    <footer>
+      <div>
+      <a class="social" href=""><img src="https://learn.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      </div>
+    </footer>
+  </body>
+</html>
