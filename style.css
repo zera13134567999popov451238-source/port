@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+  
+h1{
+    text-align: center;
+    background-color: coral;
+    border-radius: 10px;
+}
+
+ 
+
+.link-header:hover{
+    color:black;
+    background-color: gold;
+}
+h1:hover{
+    border-radius: 10px;
+    background-color: brown; 
+    transition: linear all 3s;
+
+}
+h1{
+    text-align: center;
+    box-shadow:5px 5px 0 0 navy ;
+}    
+.pot{
+    box-shadow: 10px 10px 0 0 navy;
+}
+
+div:hover{
+    transform: scale(0.5);
+    transition: 5s linear;
+}
+    
+
